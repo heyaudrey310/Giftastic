@@ -1,0 +1,25 @@
+body{
+    background-image:url("../images/zodiac.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: fixed;
+    color: white;
+}
+button{
+    float: left;
+    margin: 20px;
+    list-style: none;
+    background: midnightblue;
+    color: white;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+.zodiacGifs {
+    float: left;
+    padding: 5px;
+}
+
+
